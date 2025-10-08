@@ -74,7 +74,7 @@ ping <your_vm_public_ip>
 ![Allowing Every Traffic Honeypot](./screenshots/Allowing_Every_Traffic_Honeypot.png)
 ![ICMP After Firewall Update](./screenshots/ICMPAfterFirewallUpdate.png)
 ![ICMP Rule Created](./screenshots/ICMPRuleCreated.png)
-![Allow ICMP Inbound Rule Created](./screenshots/Allow_ICMP_inbound_rule_created.png)
+![Allow ICMP Inbound Rule Created](./screenshots/Allow_ICMP_inbound.png)
 ![Testing ICMP Before Firewall Update](./screenshots/TestingICMPBeforeFirewallUpdate.png)
 ![NSG Allowing RDP](./screenshots/NSG_Allowing_RDP.png)
 ![Turned Off Windows Defender](./screenshots/Turned_Off_Windows_Defender.png)
