@@ -29,7 +29,7 @@ Deploy a Windows VM with a public IP and verify associated Azure components.
 </p>
 
 <p align="center">
-  <img src="./screenshots/info.png" alt="VM Information" width="85%">
+  <img src="./screenshots/Info.png" alt="VM Information" width="85%">
 </p>
 
 ---
