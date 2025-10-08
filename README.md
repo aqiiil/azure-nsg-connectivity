@@ -77,7 +77,7 @@ ping <your_vm_public_ip>
 ![Allow ICMP Inbound Rule Created](./screenshots/Allow_ICMP_inbound.png)
 ![Testing ICMP Before Firewall Update](./screenshots/TestingICMPBeforeFirewallUpdate.png)
 ![NSG Allowing RDP](./screenshots/NSG_Allowing_RDP.png)
-![Turned Off Windows Defender](./screenshots/Turned_Off_Windows_Defender.png)
+![Turned Off Windows Defender](./screenshots/Turned_OFF_Windows_Defender.png)
 ![WF MSC](./screenshots/wf.msc.png)
 ![Resource Groups](./screenshots/Resource_Groups.png)
 ![Info](./screenshots/info.png)
